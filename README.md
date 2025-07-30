@@ -1,4 +1,4 @@
-# US-states-game
+# US-states-game 🗺️
 
 This is a Python-based interactive game where the user is challenged to name all 50 U.S. states. As states are guessed correctly, they are displayed on a blank map of the U.S. The game allows the user to input their guesses and provides the ability to save a list of states the user has yet to guess.
 
@@ -26,3 +26,6 @@ This is a Python-based interactive game where the user is challenged to name all
     Arizona,-161,14
     ...
     ```
+
+## License
+This project is created for educational purpose.
